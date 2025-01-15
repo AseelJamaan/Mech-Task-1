@@ -30,4 +30,3 @@ This piece is a simple multi-functional holder with:
 5. **Fillet:** To smooth out sharp edges for a polished look.
 6. **Shell:** To ensure the cup is hollow and has a realistic wall thickness.
 
-Let me know if this works for your README!
