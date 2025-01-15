@@ -14,7 +14,7 @@ This piece is a simple multi-functional holder with:
 
 ## Task 1 Part 2 :
 (https://cad.onshape.com/documents/5da824b36acc41ed761528fa/w/3c95751b031abb0bac41663e/e/622a9d7764a52172efb141a4)
-![image alt](https://example.com/images/pen-holder.png)
+![image alt](https://github.com/AseelJamaan/Mech-Task-1/blob/b5bf18427d458681951f52ddd040c036a0b385cb/WhatsApp%20Image%202025-01-15%20at%2023.13.16_a2ba9177.jpg)
 
 ### Tools Used:
 
